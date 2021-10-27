@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'VoronovFont';
+    src: url('VoronovFont.woff2') format('woff2'),
+        url('VoronovFont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
